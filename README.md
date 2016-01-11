@@ -1,4 +1,8 @@
-###Numix for cinnamon
+###Numix for cinnamon (white - blue fork)
+
+####Notes on the fork
+Below is the readme of the original numix-cinnamon theme. This is a fork aiming to keep the original look while making it lighter. Colors are replaced: dark grey with very light grey, lighter dark grey with a bit darker greys. On most occassions, red was replaced with blue. 
+This fork is incomplete - it focuses on changes to the panel. E.g. the workspace switcher was not changed.
 
 ---
 
