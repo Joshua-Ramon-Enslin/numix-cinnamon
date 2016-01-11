@@ -15,7 +15,7 @@
    height="24"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.91 r"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="panel-top-highlight.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -30,7 +30,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="24.582394"
-     inkscape:cx="3.7986028"
+     inkscape:cx="-2.9745374"
      inkscape:cy="11.754018"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -38,9 +38,9 @@
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
      inkscape:window-width="1600"
-     inkscape:window-height="846"
+     inkscape:window-height="841"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="0"
      width="400px"
      height="300px"
      inkscape:snap-nodes="true"
@@ -89,7 +89,7 @@
         <dc:source />
         <cc:license
            rdf:resource="" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:subject>
           <rdf:Bag />
         </dc:subject>
@@ -130,7 +130,7 @@
      id="layer1"
      transform="translate(0,-276)">
     <rect
-       style="opacity:1;fill:#d64937;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#004488;fill-opacity:1;stroke:none"
        id="rect5315"
        width="24"
        height="24"
@@ -138,7 +138,7 @@
        y="-300"
        transform="scale(-1,-1)" />
     <rect
-       style="fill:#484848;fill-opacity:1;stroke:none"
+       style="fill:#fdfdfd;fill-opacity:1;stroke:none"
        id="rect3873"
        width="1"
        height="24"
